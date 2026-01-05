@@ -6,6 +6,6 @@
     "test": "zkarb-sdk test ./simple ./inputs/input.json"
   },
   "dependencies": {
-    "zkarb-sdk": "^1.0.5"
+    "zkarb-sdk": "1.0.5"
   }
 }
